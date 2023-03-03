@@ -1,0 +1,8 @@
+displayName: "[orange]Klaster [lightgray]Works"
+name: "EI"
+author: "Klaster"
+main: "ExpandedIndustries.ExpandedIndustries"
+description: "Super Java Mod"
+version: "1.6 [B1]"
+minGameVersion: 142
+java: true
